@@ -1,3 +1,4 @@
+//Connor George
 //This program will take input of tables sold and display the sales for each
 //type as well as total sales.
 #include "pch.h"

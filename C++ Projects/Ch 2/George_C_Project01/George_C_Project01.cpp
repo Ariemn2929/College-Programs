@@ -1,4 +1,5 @@
-//This program displays BPCC's info and calculates the area and perimeter of a building 
+//Connor George
+//This program displays BPCC's info and calculates the area and perimeter of a building
 
 #include "pch.h"
 #include <iostream>
